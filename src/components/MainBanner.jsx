@@ -1,3 +1,4 @@
+import '../assets/css/components/MainBanner.css';
 function MainBanner() {
     return (
       <div className="hero">

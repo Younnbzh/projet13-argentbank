@@ -1,3 +1,4 @@
+import '../assets/css/components/FeatureItem.css';
 function FeatureItem({ iconSrc, title, description }) {
     return (
       <div className="feature-item">

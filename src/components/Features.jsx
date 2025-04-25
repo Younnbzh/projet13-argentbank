@@ -2,6 +2,7 @@ import FeatureItem from './FeatureItem';
 import iconChat from '../assets/icon-chat.png';
 import iconMoney from '../assets/icon-money.png';
 import iconSecurity from '../assets/icon-security.png';
+import '../assets/css/components/Features.css';
 
 function Features() {
   return (
